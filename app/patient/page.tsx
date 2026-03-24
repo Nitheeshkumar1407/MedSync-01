@@ -1,6 +1,6 @@
 import DashboardLayout from "@/app/dashboard-layout";
 import PageWrapper from "@/components/PageWrapper";
-import { Activity, FileText, Bell, CalendarClock, History } from "lucide-react";
+import { Activity, FileText, Bell, CalendarClock, History, CheckCircle } from "lucide-react";
 
 export default function PatientDashboard() {
   return (
