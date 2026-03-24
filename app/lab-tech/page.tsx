@@ -1,6 +1,6 @@
 import DashboardLayout from "@/app/dashboard-layout";
 import PageWrapper from "@/components/PageWrapper";
-import { UploadCloud, FileText, CheckCircle, Search, Microscope, Database, FileUp } from "lucide-react";
+import { UploadCloud, FileText, CheckCircle, Search, Microscope, Database, FileUp, Users } from "lucide-react";
 
 export default function LabTechDashboard() {
   return (
